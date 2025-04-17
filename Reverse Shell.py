@@ -1,4 +1,5 @@
 #Disclaimer: For educational purposes only. Do not use for illegal or harmful activities. Only use in controlled environments and comply with all laws.
+#PS You will need to setup a listener to get this to work.
 import time
 import usb_hid
 from adafruit_hid.keyboard import Keyboard
